@@ -1,22 +1,22 @@
 {
-  "name": "angularsockets",
+  "name": "sockets baileys by monte",
   "version": "1.4.5",
-  "description": "Baileys Mod By Mr Frank",
+  "description": "HULK MD - Baileys Mod By monte",
   "keywords": [
     "baileys",
-    "mrfrankofc",
+    "monte",
     "whatsapp-api",
     "whatsapp-web",
     "whatsapp-bot",
     "multi-device",
-    "subzero-md"
+    "hulk-md"
   ],
   "homepage": "",
   "repository": {
     "url": "https://www.npmjs.com/package/angularsockets"
   },
   "license": "MIT",
-  "author": "Mr Frank",
+  "author": "monte",
   "main": "./lib/index.js",
   "files": [
     "lib/*",
@@ -47,7 +47,7 @@
     "cheerio": "^1.0.0-rc.10",
     "gradient-string": "^2.0.2",
     "libphonenumber-js": "^1.10.20",
-    "libsignal": "github:alifalfrl/libsignal-node",
+    "libsignal": "github:mzml-gg/libsignal-node",
     "lodash": "^4.17.21",
     "music-metadata": "^7.12.3",
     "pino": "^9.6.0",
